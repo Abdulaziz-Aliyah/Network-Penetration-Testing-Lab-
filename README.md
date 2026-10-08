@@ -16,7 +16,7 @@ Kali Linux (VirtualBox), Nmap, Hydra, Wireshark, PyPhisher
 > All testing was performed against machines I own/control in an isolated lab network, for learning purposes only.
 
 ## What I learned
-How reconnaissance, credential attacks, and traffic analysis fit together in a real engagement, why cleartext protocols like FTP expose credentials, and how convincing phishing pages can look from the attacker's side — which sharpened my sense of what to defend against.
+How reconnaissance, credential attacks, and traffic analysis fit together in a real engagement, why cleartext protocols like FTP expose credentials, and how convincing phishing pages can look from the attacker's side which sharpened my sense of what to defend against.
 
 ## Possible improvements
 Repeat the exercise with encrypted protocols (SFTP) to compare, document full command sequences.
